@@ -8,6 +8,8 @@ github.com/antlabs/timer v0.0.0-20200611060538-448dbc430352 h1:B9u52YOQlOZ/rfebr
 github.com/antlabs/timer v0.0.0-20200611060538-448dbc430352/go.mod h1:v6dabqoqbIzU5fnP+zDdyJh15SuRy2mF7tlvr9T5Lg4=
 github.com/antlabs/timer v0.0.2 h1:NKMOObnMz4to0N0+kEaiaNp14RXx3BGQAkDhwgSuxd0=
 github.com/antlabs/timer v0.0.2/go.mod h1:ZqwPXhXGaspL3+F+hDnAXQSADm/0vmfha8EnJcTXtVc=
+github.com/antlabs/timer v0.0.3 h1:Ze0DKjvxRgHHm3raqlrV4umrLiFOaE8Bh6oWbliG2i8=
+github.com/antlabs/timer v0.0.3/go.mod h1:FIXXjo47PkXOev7vb9nYKY1P0VbYsr3Vnh/OQZCkXzI=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/ouqiang/timewheel v1.0.1 h1:XxhrYwqhJ3z8nthEnhZcHyZ/dcE29ACJEJR3Ika0W2g=
 github.com/ouqiang/timewheel v1.0.1/go.mod h1:896mz+8zvRU6i0PLVR0qaNuU5roxC874OB4TxUvUewY=
