@@ -26,19 +26,19 @@ Benchmark_Stdlib_AddTimer/N-10m-16                        	 8080659	       167 n
 goos: linux
 goarch: amd64
 pkg: benchmark
-Benchmark_antlabs_Timer_AddTimer/N-1m-16        	14327593	        77.1 ns/op
-Benchmark_antlabs_Timer_AddTimer/N-5m-16        	16078015	        80.0 ns/op
-Benchmark_antlabs_Timer_AddTimer/N-10m-16       	16101303	        86.5 ns/op
-Benchmark_RussellLuo_Timingwheel_AddTimer/N-1m-16         	 5994146	       195 ns/op
-Benchmark_RussellLuo_Timingwheel_AddTimer/N-5m-16         	 6636303	       190 ns/op
-Benchmark_RussellLuo_Timingwheel_AddTimer/N-10m-16        	 6803047	       198 ns/op
-Benchmark_ouqiang_Timewheel/N-1m-16                       	  861498	      1670 ns/op
-Benchmark_ouqiang_Timewheel/N-5m-16                       	  685520	      1724 ns/op
-Benchmark_ouqiang_Timewheel/N-10m-16                      	  695408	      1685 ns/op
-Benchmark_Stdlib_AddTimer/N-1m-16                         	 6622006	       185 ns/op
-Benchmark_Stdlib_AddTimer/N-5m-16                         	 7021538	       187 ns/op
-Benchmark_Stdlib_AddTimer/N-10m-16                        	 7219875	       170 ns/op
+Benchmark_antlabs_Timer_AddTimer/N-1m-16        	12083608	        92.5 ns/op
+Benchmark_antlabs_Timer_AddTimer/N-5m-16        	13804861	        90.1 ns/op
+Benchmark_antlabs_Timer_AddTimer/N-10m-16       	14031312	        92.3 ns/op
+Benchmark_Stdlib_AddTimer/N-1m-16               	 7007185	       178 ns/op
+Benchmark_Stdlib_AddTimer/N-5m-16               	 9036193	       166 ns/op
+Benchmark_Stdlib_AddTimer/N-10m-16              	 7071096	       185 ns/op
+Benchmark_RussellLuo_Timingwheel_AddTimer/N-1m-16         	 6584066	       193 ns/op
+Benchmark_RussellLuo_Timingwheel_AddTimer/N-5m-16         	 6649886	       192 ns/op
+Benchmark_RussellLuo_Timingwheel_AddTimer/N-10m-16        	 6103797	       181 ns/op
+Benchmark_ouqiang_Timewheel/N-1m-16                       	  946098	      1638 ns/op
+Benchmark_ouqiang_Timewheel/N-5m-16                       	  728776	      1516 ns/op
+Benchmark_ouqiang_Timewheel/N-10m-16                      	  736267	      1539 ns/op
 PASS
-ok  	benchmark	104.387s
+ok  	benchmark	108.899s
 
 ```
